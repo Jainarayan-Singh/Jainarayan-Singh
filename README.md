@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jainarayan-Singh
 - 👀 I’m interested in Data Science and Analysis
-- 🌱 I’m currently learning Machine Learning/ Python Libraries/ Visualisation tools/ Practicing Problems in python
+- 🌱 I’m currently learning Machine Learning/ Python Libraries/ Visualization tools/ Practicing Problems in python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jainarayansingh705@gmail.com
 
