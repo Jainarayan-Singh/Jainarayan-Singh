@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jainarayan-Singh
+- 👋 Hi, I’m @Jainarayan Singh
 - 👀 I’m interested in Data Science and Analysis
 - 🌱 I’m currently learning Machine Learning/ Python Libraries/ Visualization tools/ Practicing Problems in python
 - 💞️ I’m looking to collaborate on ...
